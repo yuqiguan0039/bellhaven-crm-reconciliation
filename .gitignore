@@ -1,0 +1,6 @@
+review.db
+data/crm_snapshot.json
+__pycache__/
+*.pyc
+.env
+.DS_Store
