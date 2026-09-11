@@ -1,0 +1,2 @@
+# Run every day at 07:00 local time. Use a protected environment file outside the repo.
+0 7 * * * cd '/path/to/Bellhaven CRM' && /usr/bin/env bash -lc 'source /secure/bellhaven.env && python3 app.py run' >> /var/log/bellhaven-crm.log 2>&1

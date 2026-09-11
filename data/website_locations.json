@@ -1,0 +1,411 @@
+[
+  {
+    "name": "Bellhaven of Maplewood",
+    "street": "210 Orchard Lane",
+    "city": "Maplewood",
+    "state": "OH",
+    "zip": "44280",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(614) 250-9447",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-maplewood"
+  },
+  {
+    "name": "Bellhaven of New Carlisle",
+    "street": "875 Elm Street",
+    "city": "New Carlisle",
+    "state": "OH",
+    "zip": "45344",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(614) 900-2177",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-new-carlisle"
+  },
+  {
+    "name": "Bellhaven of Wooster",
+    "street": "2301 Cleveland Road",
+    "city": "Wooster",
+    "state": "OH",
+    "zip": "44691",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(517) 712-7557",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-wooster"
+  },
+  {
+    "name": "Bellhaven Terrace of Akron",
+    "street": "55 Ridgewood Avenue",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44313",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(260) 899-4605",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-terrace-of-akron"
+  },
+  {
+    "name": "Bellhaven of Saline",
+    "street": "980 W Michigan Ave",
+    "city": "Saline",
+    "state": "MI",
+    "zip": "48176",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(614) 868-2766",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-saline"
+  },
+  {
+    "name": "Bellhaven of Goshen",
+    "street": "1610 College Ave",
+    "city": "Goshen",
+    "state": "IN",
+    "zip": "46526",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(330) 405-6040",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-goshen"
+  },
+  {
+    "name": "Bellhaven of Meadville",
+    "street": "341 Chestnut St",
+    "city": "Meadville",
+    "state": "PA",
+    "zip": "16335",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(419) 848-5389",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-meadville"
+  },
+  {
+    "name": "Bellhaven of Defiance",
+    "street": "700 Carpenter Rd",
+    "city": "Defiance",
+    "state": "OH",
+    "zip": "43512",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(330) 691-2711",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-defiance"
+  },
+  {
+    "name": "Bellhaven Woods of Toledo",
+    "street": "4850 NW Sylvania Ave",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43623",
+    "care_offerings": [
+      "Memory Support"
+    ],
+    "phone": "(734) 388-8242",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-woods-of-toledo"
+  },
+  {
+    "name": "Bellhaven of Marion",
+    "street": "199 Barks Rd W",
+    "city": "Marion",
+    "state": "OH",
+    "zip": "43302",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(517) 847-7948",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marion"
+  },
+  {
+    "name": "Bellhaven of Kalamazoo",
+    "street": "3222 Gull Rd",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49048",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(231) 460-1964",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kalamazoo"
+  },
+  {
+    "name": "Bellhaven Court of Altoona",
+    "street": "1125 Logan Blvd",
+    "city": "Altoona",
+    "state": "PA",
+    "zip": "16602",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(517) 573-9493",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-court-of-altoona"
+  },
+  {
+    "name": "Bellhaven Rehabilitation & Nursing of Grove City",
+    "street": "3985 Broadway",
+    "city": "Grove City",
+    "state": "OH",
+    "zip": "43123",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(614) 555-7729",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-rehabilitation-nursing-of-grove-city"
+  },
+  {
+    "name": "Bellhaven at Sycamore Ridge",
+    "street": "7420 Sycamore Ridge Dr",
+    "city": "Miamisburg",
+    "state": "OH",
+    "zip": "45342",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(260) 365-6510",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-sycamore-ridge"
+  },
+  {
+    "name": "The Arbors at Bellhaven - Dayton",
+    "street": "2210 Salem Ave",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45406",
+    "care_offerings": [
+      "Memory Support"
+    ],
+    "phone": "(260) 254-7592",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/the-arbors-at-bellhaven-dayton"
+  },
+  {
+    "name": "Bellhaven Healthcare Centre of Ashland",
+    "street": "1631 Claremont Ave",
+    "city": "Ashland",
+    "state": "OH",
+    "zip": "44805",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(517) 314-5115",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-healthcare-centre-of-ashland"
+  },
+  {
+    "name": "Bellhaven of Port Clinton",
+    "street": "1420 Harbor Point Dr",
+    "city": "Port Clinton",
+    "state": "OH",
+    "zip": "43452",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(330) 733-6423",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-port-clinton"
+  },
+  {
+    "name": "Bellhaven Shores of Erie",
+    "street": "4930 W Lake Rd",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16505",
+    "care_offerings": [
+      "Assisted Living",
+      "Memory Support"
+    ],
+    "phone": "(614) 792-9343",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-shores-of-erie"
+  },
+  {
+    "name": "Bellhaven of Kettering",
+    "street": "3313 Wilmington Pike",
+    "city": "Kettering",
+    "state": "OH",
+    "zip": "45429",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(231) 269-5449",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kettering"
+  },
+  {
+    "name": "Bellhaven Gardens of Monroe",
+    "street": "750 Stewart Rd",
+    "city": "Monroe",
+    "state": "MI",
+    "zip": "48162",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(814) 412-2218",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-gardens-of-monroe"
+  },
+  {
+    "name": "Bellhaven of Tiffin",
+    "street": "45 St Lawrence Dr",
+    "city": "Tiffin",
+    "state": "OH",
+    "zip": "44883",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(260) 589-2589",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-tiffin"
+  },
+  {
+    "name": "Bellhaven of Marietta",
+    "street": "805 Colegate Dr",
+    "city": "Marietta",
+    "state": "OH",
+    "zip": "45750",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(614) 337-1967",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marietta"
+  },
+  {
+    "name": "Bellhaven Crossings of Lima",
+    "street": "3115 N Cole St",
+    "city": "Lima",
+    "state": "OH",
+    "zip": "45801",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(231) 539-3617",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-crossings-of-lima"
+  },
+  {
+    "name": "Bellhaven of Zanesville",
+    "street": "2680 Maple Ave",
+    "city": "Zanesville",
+    "state": "OH",
+    "zip": "43701",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(814) 599-2533",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-zanesville"
+  },
+  {
+    "name": "Bellhaven of Chagrin Falls",
+    "street": "150 River St",
+    "city": "Chagrin Falls",
+    "state": "OH",
+    "zip": "44022",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(231) 283-7448",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chagrin-falls"
+  },
+  {
+    "name": "Bellhaven Willow Creek",
+    "street": "8060 Willow Creek Ln",
+    "city": "Portage",
+    "state": "MI",
+    "zip": "49024",
+    "care_offerings": [
+      "Memory Support"
+    ],
+    "phone": "(419) 394-5494",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-willow-creek"
+  },
+  {
+    "name": "Bellhaven of Ashtabula",
+    "street": "3156 W Prospect Rd",
+    "city": "Ashtabula",
+    "state": "OH",
+    "zip": "44004",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(260) 440-4975",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-ashtabula"
+  },
+  {
+    "name": "Bellhaven of Owosso",
+    "street": "1120 W Main St",
+    "city": "Owosso",
+    "state": "MI",
+    "zip": "48867",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(734) 503-1363",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-owosso"
+  },
+  {
+    "name": "Bellhaven of Portsmouth",
+    "street": "2222 Gallia St",
+    "city": "Portsmouth",
+    "state": "OH",
+    "zip": "45662",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(330) 431-2495",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-portsmouth"
+  },
+  {
+    "name": "Bellhaven of Batavia",
+    "street": "2000 Hospital Dr",
+    "city": "Batavia",
+    "state": "OH",
+    "zip": "45103",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(231) 698-3092",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-batavia"
+  },
+  {
+    "name": "Bellhaven at Union Square",
+    "street": "118 Union Square Dr",
+    "city": "New Albany",
+    "state": "OH",
+    "zip": "43054",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(330) 519-9639",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-union-square"
+  },
+  {
+    "name": "Bellhaven of Carlisle",
+    "street": "640 Walnut Bottom Rd",
+    "city": "Carlisle",
+    "state": "PA",
+    "zip": "17015",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(260) 386-7765",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-carlisle"
+  },
+  {
+    "name": "Amberly Manor",
+    "street": "4390 Darrow Rd",
+    "city": "Hudson",
+    "state": "OH",
+    "zip": "44236",
+    "care_offerings": [
+      "Assisted Living"
+    ],
+    "phone": "(330) 228-4392",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/amberly-manor"
+  },
+  {
+    "name": "Bellhaven of Chesterton",
+    "street": "1250 NW Franklin Street",
+    "city": "Chesterton",
+    "state": "IN",
+    "zip": "46304",
+    "care_offerings": [
+      "Short-Term Rehabilitation & Nursing"
+    ],
+    "phone": "(216) 551-3978",
+    "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chesterton"
+  }
+]
